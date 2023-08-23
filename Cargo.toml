@@ -1,5 +1,5 @@
 [package]
-name = "rodio"
+name = "geng-rodio"
 version = "0.17.1"
 license = "MIT OR Apache-2.0"
 description = "Audio playback library"
